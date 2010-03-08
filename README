@@ -1,0 +1,8 @@
+Fish utils is a set of utilities for fish - friendly interactive shell.
+
+== rgrep
+* recursive grep, searches in . for given regular expression. Extremely useful for me while developing rails apps.
+
+== better prompt
+* you'll see a clock in the beginning of the prompt
+
